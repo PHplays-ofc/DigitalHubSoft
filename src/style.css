@@ -78,3 +78,5 @@
  .cart-thumb{width:56px;height:56px}
  .checkout-modal{padding:18px}
 }
+
+.payment-choice{margin:16px 0;padding:14px;border:1px solid #d9e4f3;border-radius:12px;text-align:left;display:grid;gap:10px}.payment-choice legend{font-weight:700;padding:0 5px}.payment-choice label{display:flex;gap:10px;align-items:center;cursor:pointer}.payment-choice input{accent-color:#1767d5}.payment-choice small{color:#536478;line-height:1.5}.modal select{width:100%;padding:11px;border:1px solid #d1d5db;border-radius:9px;background:#fff}
